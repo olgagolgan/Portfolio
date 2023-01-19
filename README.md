@@ -1,2 +1,2 @@
 # Portfolio
-these are the projects i have realised, most of them for the Digital Humanities and Digital Knowledge Master's Degree @ University of Bologna
+These are the projects i have realised, most of them for the <a href="https://corsi.unibo.it/2cycle/DigitalHumanitiesKnowledge" target="_blank"> Digital Humanities and Digital Knowledge</a> Master's Degree @ University of Bologna
