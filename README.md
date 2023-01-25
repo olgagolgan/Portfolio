@@ -5,7 +5,7 @@ These are my projects. Most of them have been created for the <a href="https://c
 <h1>A.Y.2022/23</h1>
 <ul>
   <li><a href="https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/467048" target="_blank"><b>Network Analysis</b></a>, Professor Saverio Giallorenzo - <a href="https://github.com/NetworkAnalysisP/NAP.git" target="_blank">Project Repository</a></li>
-  <li><a href="https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/455487" target="_blank"><b>Natural Language Processing</b></a>, Professor Fabio Tamburini - <a href="https://github.com/MotMovieBot/Mot" target="_blank">Project Repository</a>, <a href="https://motmoviebot.github.io/Mot/" target="_blank">Website</a></li>
+  <li><a href="https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/455487" target="_blank"><b>Natural Language Processing</b></a>, Professor Fabio Tamburini - <a href="" target="_blank">Project Repository</a>, <a href="https://motmoviebot.github.io/Mot/" target="_blank">Website</a></li>
   <li><a href="https://www.unibo.it/en/teaching/course-unit-catalogue/course-unit/2022/424782" target="_blank"><b>Usabiity and User Experience</b></a>, Professor Fabio Vitali - <a href="https://github.com/PLAYEDtheapp/Played.git" target="_blank">Project Repository</a></li>
 </ul>
 
